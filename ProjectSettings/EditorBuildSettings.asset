@@ -27,7 +27,7 @@ EditorBuildSettings:
     path: Assets/_Main/Scenes/cacuk_outdoor_2.unity
     guid: 239031f7f0bbb41508d5cbf766ffbabd
   - enabled: 1
-    path: Assets/_Main/Scenes/dilo.unity
+    path: Assets/_Main/Scenes/DILO.unity
     guid: e14bbe1797cf8459a86b8c6ba36a2e09
   - enabled: 1
     path: Assets/_Main/Scenes/harmonize_2nd_floor.unity
@@ -90,7 +90,7 @@ EditorBuildSettings:
     path: Assets/_Main/Scenes/starsign.unity
     guid: 17de55d0d9d0e4398ad2c1546aa5c713
   - enabled: 1
-    path: Assets/_Main/Scenes/tugu.unity
+    path: Assets/_Main/Scenes/Tugu.unity
     guid: 45e7c3235e4c54441aa35a1dfdd614c0
   - enabled: 1
     path: Assets/_Main/Scenes/vlic_harmonize.unity
