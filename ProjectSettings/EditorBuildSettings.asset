@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_Main/Scenes/ameera_corridor.unity
+    guid: 25d7993f5593e483f92778d7e2bd1123
+  - enabled: 1
     path: Assets/_Main/Scenes/ameera_hotelroom.unity
     guid: dd238d6b6694148c9b06fcf9bd9ace49
+  - enabled: 1
+    path: Assets/_Main/Scenes/ameera_indoor.unity
+    guid: 5c4de78ff7b5c4e5184b3ee8367b3583
+  - enabled: 1
+    path: Assets/_Main/Scenes/ameera_outdoor.unity
+    guid: ddd058c1796fe4ef881a1cfefb6d3c47
   - enabled: 1
     path: Assets/_Main/Scenes/cacuk_1.unity
     guid: 318edd9996050485a9a91e9200914069
@@ -27,8 +36,14 @@ EditorBuildSettings:
     path: Assets/_Main/Scenes/cacuk_outdoor_2.unity
     guid: 239031f7f0bbb41508d5cbf766ffbabd
   - enabled: 1
-    path: Assets/_Main/Scenes/DILO.unity
+    path: Assets/_Main/Scenes/darul_ihsan.unity
+    guid: cf1e33c811f4e4b7ea835e8d20d2345a
+  - enabled: 1
+    path: Assets/_Main/Scenes/dilo.unity
     guid: e14bbe1797cf8459a86b8c6ba36a2e09
+  - enabled: 1
+    path: Assets/_Main/Scenes/escape_way.unity
+    guid: 5631fd8f3d717442796cb666fad580c6
   - enabled: 1
     path: Assets/_Main/Scenes/harmonize_2nd_floor.unity
     guid: 57ad1ef6546fb4a459f5149e819785ce
@@ -48,11 +63,44 @@ EditorBuildSettings:
     path: Assets/_Main/Scenes/ideabox.unity
     guid: 8a1f3ace1a08ebe4caaee1c253f864c8
   - enabled: 1
+    path: Assets/_Main/Scenes/innocent_bigbox.unity
+    guid: 3fa9b4768dd7443a4af3a6c35cd51d87
+  - enabled: 1
+    path: Assets/_Main/Scenes/innocent_ideabox.unity
+    guid: 1563e1ea32f8347b79d2de5f25291f65
+  - enabled: 1
+    path: Assets/_Main/Scenes/innocent_indoor.unity
+    guid: 3acdd4de9d9294fbabd5217442dc47ce
+  - enabled: 1
+    path: Assets/_Main/Scenes/innocent_meeting_room.unity
+    guid: cfac5cf7aa4674ac2b298f30744a7d89
+  - enabled: 1
+    path: Assets/_Main/Scenes/innocent_mydigilearn.unity
+    guid: 41bc6096437f145edbf8267887c2c6dc
+  - enabled: 1
+    path: Assets/_Main/Scenes/innocent_oca.unity
+    guid: 291be124242db4fc3aec886579ef462b
+  - enabled: 1
+    path: Assets/_Main/Scenes/innocent_smartcity.unity
+    guid: 85337df85d8d74dfebef01388a206bcf
+  - enabled: 1
+    path: Assets/_Main/Scenes/innocent_smarteye.unity
+    guid: 2e7ded79546df4945888b091fc0ba413
+  - enabled: 1
+    path: Assets/_Main/Scenes/innocent_smarthome.unity
+    guid: 588bd569e9d8642798121ca80ddd44d3
+  - enabled: 1
+    path: Assets/_Main/Scenes/innocent_vr_lab.unity
+    guid: f0b79406059c74f47bfc6e326f5f88fd
+  - enabled: 1
+    path: Assets/_Main/Scenes/Itdri_1st_floor.unity
+    guid: 7b6fa764c62db4e52baf782ab363df69
+  - enabled: 1
+    path: Assets/_Main/Scenes/itdri_2st_floor.unity
+    guid: d71d5d6f981f14da28498bfe94b081f8
+  - enabled: 1
     path: Assets/_Main/Scenes/library_indoor.unity
     guid: 16169ec7332c1a34997aacf7823d5361
-  - enabled: 1
-    path: Assets/_Main/Scenes/library_outdoor.unity
-    guid: e4f2de51b04661d4b9cc7349bd9856f8
   - enabled: 1
     path: Assets/_Main/Scenes/pojok_innocent.unity
     guid: ad5e9b268182d41b39df233e5f77ae78
@@ -60,14 +108,14 @@ EditorBuildSettings:
     path: Assets/_Main/Scenes/pojok_starground.unity
     guid: f771f63950d134969aaace3f041358dc
   - enabled: 1
-    path: Assets/_Main/Scenes/pojok_starground_2.unity
-    guid: f9e92bf0c0616423190c217f0a431916
-  - enabled: 1
     path: Assets/_Main/Scenes/shooting_range_1.unity
     guid: c4710cbf73302864eab555419ac727d3
   - enabled: 1
     path: Assets/_Main/Scenes/shooting_range_2.unity
     guid: 98dc3ab3c90352e4cb7200f927516e0b
+  - enabled: 1
+    path: Assets/_Main/Scenes/shooting_range_archery.unity
+    guid: 7145ca270e3024babba0096c5e6a701e
   - enabled: 1
     path: Assets/_Main/Scenes/shooting_range_outdoor.unity
     guid: ef58a1d215f38bf4fa4f676188b16af1
@@ -81,14 +129,11 @@ EditorBuildSettings:
     path: Assets/_Main/Scenes/sportainment_outdoor_1.unity
     guid: cf999fb42ff41f54596977bd67b91e7a
   - enabled: 1
-    path: Assets/_Main/Scenes/sportainment_outdoor_2.unity
-    guid: f11aaa2f6b1358a4085731010791b35a
-  - enabled: 1
-    path: Assets/_Main/Scenes/starground.unity
-    guid: fef02b544256c4a28a56ff2c5f0ba0eb
-  - enabled: 1
     path: Assets/_Main/Scenes/starsign.unity
     guid: 17de55d0d9d0e4398ad2c1546aa5c713
+  - enabled: 1
+    path: Assets/_Main/Scenes/teather_of_akhlak.unity
+    guid: 94be5211b735f40448607885da7d2a66
   - enabled: 1
     path: Assets/_Main/Scenes/Tugu.unity
     guid: 45e7c3235e4c54441aa35a1dfdd614c0
