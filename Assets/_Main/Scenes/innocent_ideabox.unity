@@ -458,12 +458,12 @@ PrefabInstance:
     - target: {fileID: 6371428031329290597, guid: 38e8b8179b9b4d749b00bbb95be11886,
         type: 3}
       propertyPath: nextScene
-      value: innocent_mydigilearn
+      value: vlic_innocent_podcast
       objectReference: {fileID: 0}
     - target: {fileID: 6371428031329290597, guid: 38e8b8179b9b4d749b00bbb95be11886,
         type: 3}
       propertyPath: previousScene
-      value: innocent_indoor
+      value: innocent_meeting_room
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 38e8b8179b9b4d749b00bbb95be11886, type: 3}
