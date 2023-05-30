@@ -1625,7 +1625,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: cacuk_1
+          m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!223 &255307445
@@ -2306,7 +2306,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: cacuk_1
+          m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!223 &389980505
@@ -3735,7 +3735,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: cacuk_1
+          m_StringArgument: teather_of_akhlak
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!223 &773213995
@@ -5734,7 +5734,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: cacuk_1
+          m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!223 &993420649
@@ -7731,7 +7731,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: cacuk_1
+          m_StringArgument: library_indoor
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!223 &1423731166
@@ -9824,7 +9824,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: cacuk_1
+          m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!223 &1732608533
@@ -10023,7 +10023,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: cacuk_1
+          m_StringArgument: escape_way
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!223 &1748832245
