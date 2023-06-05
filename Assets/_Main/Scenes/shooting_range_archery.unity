@@ -416,6 +416,12 @@ PrefabInstance:
       propertyPath: previousScene
       value: shooting_range_2
       objectReference: {fileID: 0}
+    - target: {fileID: 7722408054262060101, guid: 38e8b8179b9b4d749b00bbb95be11886,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 2e024dfdf81e3164383b1f6c47f69630,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 38e8b8179b9b4d749b00bbb95be11886, type: 3}
 --- !u!1001 &251351325

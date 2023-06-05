@@ -513,6 +513,12 @@ PrefabInstance:
       propertyPath: previousScene
       value: tugu
       objectReference: {fileID: 0}
+    - target: {fileID: 7722408054262060101, guid: 38e8b8179b9b4d749b00bbb95be11886,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 01717b8c99782854aa90f628bfd70ab8,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 38e8b8179b9b4d749b00bbb95be11886, type: 3}
 --- !u!1001 &1601580020
