@@ -415,7 +415,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f79f9c57254bdba429453c478bec939e, type: 2}
+  - {fileID: 2100000, guid: 47ceff697909ace4d9d219df33e15f60, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -587,6 +587,12 @@ PrefabInstance:
       propertyPath: previousScene
       value: innocent_ideabox
       objectReference: {fileID: 0}
+    - target: {fileID: 7722408054262060101, guid: 38e8b8179b9b4d749b00bbb95be11886,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5c0cc0a482c18374199802dd4c939275,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 38e8b8179b9b4d749b00bbb95be11886, type: 3}
 --- !u!1 &1951418991
