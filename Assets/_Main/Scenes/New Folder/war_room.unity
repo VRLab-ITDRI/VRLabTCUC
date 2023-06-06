@@ -409,18 +409,19 @@ PrefabInstance:
     - target: {fileID: 6371428031329290597, guid: 38e8b8179b9b4d749b00bbb95be11886,
         type: 3}
       propertyPath: nextScene
-      value: ameera_hotelroom
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 6371428031329290597, guid: 38e8b8179b9b4d749b00bbb95be11886,
         type: 3}
       propertyPath: previousScene
-      value: ameera_indoor
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 7722408054262060101, guid: 38e8b8179b9b4d749b00bbb95be11886,
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 21300000, guid: 89ac4fdf57c947d41964b6184cd92a92,
+        type: 3}
     - target: {fileID: 7722408054262060101, guid: 38e8b8179b9b4d749b00bbb95be11886,
         type: 3}
       propertyPath: m_Color.a

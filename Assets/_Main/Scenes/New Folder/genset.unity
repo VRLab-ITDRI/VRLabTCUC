@@ -296,6 +296,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1854360658, guid: 38e8b8179b9b4d749b00bbb95be11886, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1248861550224709541, guid: 38e8b8179b9b4d749b00bbb95be11886,
         type: 3}
       propertyPath: m_Pivot.x
@@ -409,22 +413,12 @@ PrefabInstance:
     - target: {fileID: 6371428031329290597, guid: 38e8b8179b9b4d749b00bbb95be11886,
         type: 3}
       propertyPath: nextScene
-      value: ameera_hotelroom
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 6371428031329290597, guid: 38e8b8179b9b4d749b00bbb95be11886,
         type: 3}
       propertyPath: previousScene
-      value: ameera_indoor
-      objectReference: {fileID: 0}
-    - target: {fileID: 7722408054262060101, guid: 38e8b8179b9b4d749b00bbb95be11886,
-        type: 3}
-      propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 7722408054262060101, guid: 38e8b8179b9b4d749b00bbb95be11886,
-        type: 3}
-      propertyPath: m_Color.a
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 38e8b8179b9b4d749b00bbb95be11886, type: 3}
