@@ -146,6 +146,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Main/Scenes/vlic_podcast.unity
     guid: 5d178978c5b1a9d4a96d8ae8df6c5d77
+  - enabled: 1
+    path: Assets/_Main/Scenes/New Folder/genset.unity
+    guid: ec4d14dfab3100a4886b2193b5473eb3
+  - enabled: 1
+    path: Assets/_Main/Scenes/New Folder/hydrant.unity
+    guid: 653f301ae233f864b8839a0afc99dece
+  - enabled: 1
+    path: Assets/_Main/Scenes/New Folder/pos_satpam.unity
+    guid: 94e51c15e079fe540ab185a0d6c77616
+  - enabled: 1
+    path: Assets/_Main/Scenes/New Folder/war_room.unity
+    guid: dd4ac578508d38f44bd0fad3758cb4fa
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}
