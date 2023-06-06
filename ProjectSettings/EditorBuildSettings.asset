@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Main/Scenes/tugu.unity
+    path: Assets/_Main/Scenes/beta test.unity
     guid: 45e7c3235e4c54441aa35a1dfdd614c0
   - enabled: 1
     path: Assets/_Main/Scenes/ameera_corridor.unity
@@ -42,7 +42,7 @@ EditorBuildSettings:
     path: Assets/_Main/Scenes/darul_ihsan.unity
     guid: cf1e33c811f4e4b7ea835e8d20d2345a
   - enabled: 1
-    path: Assets/_Main/Scenes/dilo.unity
+    path: Assets/_Main/Scenes/DILO.unity
     guid: e14bbe1797cf8459a86b8c6ba36a2e09
   - enabled: 1
     path: Assets/_Main/Scenes/escape_way.unity
