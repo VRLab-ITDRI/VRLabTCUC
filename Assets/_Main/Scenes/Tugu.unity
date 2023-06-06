@@ -440,7 +440,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: genset
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &85883009
@@ -594,7 +594,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: war_room
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &117703419
@@ -778,7 +778,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 161956168}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.1363014, y: 1.1, z: -0.3}
+  m_LocalPosition: {x: -1.1363014, y: 1.1, z: -2.4}
   m_LocalScale: {x: 200.82689, y: 132.84105, z: 6.9559712}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1153,7 +1153,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: teather_of_akhlak
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &595585959
@@ -1461,7 +1461,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: itdri_1st_floor
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &751706348
@@ -2743,7 +2743,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: hydrant
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1410935654
@@ -3371,7 +3371,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: pos_satpam
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1776483629
@@ -3525,7 +3525,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: escape_way
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1796737572
