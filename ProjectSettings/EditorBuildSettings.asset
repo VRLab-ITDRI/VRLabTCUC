@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_Main/Scenes/tugu.unity
+    guid: bdebadc074683427289f0c59955764a4
+  - enabled: 1
     path: Assets/_Main/Scenes/akhlak.unity
     guid: 45e7c3235e4c54441aa35a1dfdd614c0
   - enabled: 1
@@ -155,9 +158,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Main/Scenes/teather_of_akhlak.unity
     guid: 94be5211b735f40448607885da7d2a66
-  - enabled: 1
-    path: Assets/_Main/Scenes/tugu.unity
-    guid: bdebadc074683427289f0c59955764a4
   - enabled: 1
     path: Assets/_Main/Scenes/vlic_harmonize.unity
     guid: dbf07e156be621d4fba24570f9ff1900
