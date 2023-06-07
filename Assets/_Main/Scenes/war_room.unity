@@ -409,12 +409,12 @@ PrefabInstance:
     - target: {fileID: 6371428031329290597, guid: 38e8b8179b9b4d749b00bbb95be11886,
         type: 3}
       propertyPath: nextScene
-      value: 
+      value: tugu
       objectReference: {fileID: 0}
     - target: {fileID: 6371428031329290597, guid: 38e8b8179b9b4d749b00bbb95be11886,
         type: 3}
       propertyPath: previousScene
-      value: 
+      value: tugu
       objectReference: {fileID: 0}
     - target: {fileID: 7722408054262060101, guid: 38e8b8179b9b4d749b00bbb95be11886,
         type: 3}
