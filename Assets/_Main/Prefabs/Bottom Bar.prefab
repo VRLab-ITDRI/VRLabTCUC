@@ -2387,7 +2387,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: dilo
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2070480189155788802
@@ -2509,7 +2509,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: vlic_harmonize
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &3701822106017229014
@@ -2631,7 +2631,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: teather_of_akhlak
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &3344165800918964103
@@ -3003,7 +3003,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: library_indoor
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &3323899659949302011
@@ -3613,7 +3613,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: cacuk_1
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &6045172240921338482
@@ -4955,7 +4955,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: itdri_1st_floor
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2306001069899267756
