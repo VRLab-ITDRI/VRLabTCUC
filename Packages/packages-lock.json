@@ -263,6 +263,15 @@
         "com.unity.searcher": "4.9.1"
       }
     },
+    "com.unity.subsystemregistration": {
+      "version": "1.1.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.subsystems": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.test-framework": {
       "version": "1.1.33",
       "depth": 0,
@@ -390,6 +399,17 @@
         "com.unity.inputsystem": "1.4.4"
       },
       "url": "https://packages.unity.com"
+    },
+    "com.unity.xr.picoxr": {
+      "version": "file:/Users/claytoo/Downloads/PICO Unity Integration SDK_215",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.unity.xr.management": "3.2.16",
+        "com.unity.ugui": "1.0.0",
+        "com.unity.subsystemregistration": "1.0.6",
+        "com.unity.xr.interaction.toolkit": "0.9.4-preview"
+      }
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
