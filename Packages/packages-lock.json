@@ -401,7 +401,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.picoxr": {
-      "version": "file:../Assets/ThirdParty/PICO Unity Integration SDK_215",
+      "version": "file:/Users/claytoo/Documents/PICO Unity Integration SDK_215",
       "depth": 0,
       "source": "local",
       "dependencies": {
