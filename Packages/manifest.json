@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.google.xr.cardboard": "https://github.com/googlevr/cardboard-xr-plugin.git",
     "com.unity.collab-proxy": "2.0.4",
     "com.unity.feature.2d": "1.0.0",
     "com.unity.feature.development": "1.0.1",
@@ -18,7 +19,7 @@
     "com.unity.xr.interaction.toolkit": "2.3.2",
     "com.unity.xr.management": "4.3.3",
     "com.unity.xr.oculus": "3.3.0",
-    "com.unity.xr.picoxr": "file:C:/Users/Asus TUF/Downloads/PICO Unity Integration SDK_215",
+    "com.unity.xr.picoxr": "file:../Assets/ThirdParty/PICO Unity Integration SDK_215",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
