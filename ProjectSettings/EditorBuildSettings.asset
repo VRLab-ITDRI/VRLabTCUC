@@ -6,168 +6,174 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.21.0/Hello Cardboard/Scenes/VrMode.unity
+    guid: 4812ec05e87b8414abcdfe0d625c0e60
+  - enabled: 0
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.21.0/Hello Cardboard/Scenes/HelloCardboard.unity
+    guid: 145a2a45d7bc746b19cb68410368bf96
+  - enabled: 0
     path: Assets/_Main/Scenes/tugu.unity
     guid: bdebadc074683427289f0c59955764a4
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/akhlak.unity
     guid: 45e7c3235e4c54441aa35a1dfdd614c0
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/ameera_corridor.unity
     guid: 25d7993f5593e483f92778d7e2bd1123
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/ameera_hotelroom.unity
     guid: dd238d6b6694148c9b06fcf9bd9ace49
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/ameera_indoor.unity
     guid: 5c4de78ff7b5c4e5184b3ee8367b3583
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/ameera_outdoor.unity
     guid: ddd058c1796fe4ef881a1cfefb6d3c47
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/cacuk_1.unity
     guid: 318edd9996050485a9a91e9200914069
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/cacuk_2.unity
     guid: e306c5697a4c24e41bc72580a7aa2288
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/cacuk_billiard_room.unity
     guid: 15c7405382e984891a4590baf2f66a90
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/cacuk_meeting_room.unity
     guid: 36989873a55e4474d8a380a2221c9a90
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/cacuk_outdoor_1.unity
     guid: 2b0b91f36af054087af96ec6e0b9607d
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/cacuk_outdoor_2.unity
     guid: 239031f7f0bbb41508d5cbf766ffbabd
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/darul_ihsan.unity
     guid: cf1e33c811f4e4b7ea835e8d20d2345a
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/dilo.unity
     guid: e14bbe1797cf8459a86b8c6ba36a2e09
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/escape_way.unity
     guid: 5631fd8f3d717442796cb666fad580c6
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/genset.unity
     guid: ec4d14dfab3100a4886b2193b5473eb3
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/harmonize_2nd_floor.unity
     guid: 57ad1ef6546fb4a459f5149e819785ce
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/harmonize_barat.unity
     guid: d866060cee85eee4eae96674f2945109
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/harmonize_inn_ex.unity
     guid: 7a47140a169b7684b90458bbffae1fdf
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/harmonize_outdoor.unity
     guid: c3838aebb2b202942b26875ddeeec796
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/harmonize_timur.unity
     guid: 1f342c355a486a14b8ccede416e5d33c
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/hydrant.unity
     guid: 653f301ae233f864b8839a0afc99dece
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/ideabox.unity
     guid: 8a1f3ace1a08ebe4caaee1c253f864c8
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/innocent_bigbox.unity
     guid: 3fa9b4768dd7443a4af3a6c35cd51d87
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/innocent_ideabox.unity
     guid: 1563e1ea32f8347b79d2de5f25291f65
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/innocent_indoor.unity
     guid: 3acdd4de9d9294fbabd5217442dc47ce
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/innocent_meeting_room.unity
     guid: cfac5cf7aa4674ac2b298f30744a7d89
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/innocent_mydigilearn.unity
     guid: 41bc6096437f145edbf8267887c2c6dc
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/innocent_oca.unity
     guid: 291be124242db4fc3aec886579ef462b
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/innocent_smartcity.unity
     guid: 85337df85d8d74dfebef01388a206bcf
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/innocent_smarteye.unity
     guid: 2e7ded79546df4945888b091fc0ba413
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/innocent_smarthome.unity
     guid: 588bd569e9d8642798121ca80ddd44d3
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/innocent_vr_lab.unity
     guid: f0b79406059c74f47bfc6e326f5f88fd
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/itdri_1st_floor.unity
     guid: 7b6fa764c62db4e52baf782ab363df69
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/itdri_2st_floor.unity
     guid: d71d5d6f981f14da28498bfe94b081f8
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/library.unity
     guid: 50126b7bd0bcc794ea9026e40766d152
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/library_indoor.unity
     guid: 16169ec7332c1a34997aacf7823d5361
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/mydigilearn_indoor.unity
     guid: b2b1eb1a923c21b41bd54c232c0d65da
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/mydigilearn_outdoor.unity
     guid: 9bd7f4f924907f741b27c54dca6ae25d
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/pojok_innocent.unity
     guid: ad5e9b268182d41b39df233e5f77ae78
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/pojok_starground.unity
     guid: f771f63950d134969aaace3f041358dc
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/pos_satpam.unity
     guid: 94e51c15e079fe540ab185a0d6c77616
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/shooting_range_1.unity
     guid: c4710cbf73302864eab555419ac727d3
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/shooting_range_2.unity
     guid: 98dc3ab3c90352e4cb7200f927516e0b
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/shooting_range_archery.unity
     guid: 7145ca270e3024babba0096c5e6a701e
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/shooting_range_outdoor.unity
     guid: ef58a1d215f38bf4fa4f676188b16af1
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/sportainment_1.unity
     guid: c07e6c73e6b353e48a2abb84602cd38c
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/sportainment_2.unity
     guid: cc9dd07b53870b34f88b215f4b6d55c5
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/sportainment_outdoor_1.unity
     guid: cf999fb42ff41f54596977bd67b91e7a
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/starsign.unity
     guid: 17de55d0d9d0e4398ad2c1546aa5c713
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/teather_of_akhlak.unity
     guid: 94be5211b735f40448607885da7d2a66
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/vlic_harmonize.unity
     guid: dbf07e156be621d4fba24570f9ff1900
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/vlic_innocent_podcast.unity
     guid: 2e66f64502fa5ce4ab345cfa5744ad32
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/vlic_podcast.unity
     guid: 5d178978c5b1a9d4a96d8ae8df6c5d77
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Main/Scenes/war_room.unity
     guid: dd4ac578508d38f44bd0fad3758cb4fa
   m_configObjects:
